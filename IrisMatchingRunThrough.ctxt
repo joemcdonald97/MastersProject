@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=IrisMatchingRunThrough
+comment0.text=\n\ Runs\ through\ the\ iris\ image\ methods\n\n\ @author\ (Joe\ McDonald)\n\ @version\ (2020)\n
+comment1.params=
+comment1.target=IrisMatchingRunThrough()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ IrisMatchingRunThrough\n
+comment2.params=
+comment2.target=void\ runThrough()
+comment2.text=\n\ Run\ through\ of\ each\ method\ in\ Iris\ Matching\n\ \n\ \n\ \n
+numComments=3
